@@ -1,0 +1,31 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\BGMusic.cs">
+    <Files>
+      <File FileName="Assets\Scripts\ZombieFollow.cs" Line="6" Column="57" />
+      <File FileName="Assets\Scripts\CameraController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ZombieController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\KeyboardControls.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\HumanController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CharController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SelfDestruct.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SoldierController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Bullet.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SpawnPoint.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameController.cs" Line="101" Column="1" />
+      <File FileName="Assets\Scripts\UI\UIScore.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SearchTrigger.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI\UIPopup.cs" Line="26" Column="83" />
+      <File FileName="Assets\Scripts\UI\UIPopupGameOver.cs" Line="18" Column="1" />
+      <File FileName="Assets\Scripts\UI\UISplash.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI\MainMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI\MainMenuZombie.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BGMusic.cs" Line="5" Column="17" />
+      <File FileName="Assets\Scripts\UI\UIPopupPause.cs" Line="6" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
